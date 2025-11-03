@@ -58,8 +58,8 @@ menu_restaurant/
 
 1. **Cloner le repository**
 ```bash
-   git clone https://github.com/VOTRE_USERNAME/menu_restaurant.git
-   cd menu_restaurant
+   git clone https://github.com/Nouhamk/menu_restaurant.git
+   cd menu_restaurant 
 ```
 
 2. **Installer les dépendances**
