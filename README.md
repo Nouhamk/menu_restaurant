@@ -110,6 +110,14 @@ class Plat {
 - **Card** pour l'affichage des plats
 - **Image.network** avec gestion d'erreur et loading
 
+## 📱 Aperçu
+
+Voici un aperçu du rendu de l’application :
+
+![Aperçu application](assets/screenshot.png)
+
+Application de menu restaurant développée en Flutter présentant une cuisine fusion innovante mêlant traditions marocaines et coréennes.
+
 ## 👨‍💻 Auteur
 
 **Nouhaila Moukaddime** - Projet académique Flutter
